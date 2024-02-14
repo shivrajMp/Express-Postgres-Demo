@@ -1,12 +1,13 @@
 const express = require("express");
 const csvParser = require("csv-parser");
 
-const { Pool } = require("pg");
+const { Pool } = require("pg"); 
 const fs = require("fs");
 
 const app = express();
 const port = process.env.PORT || 3000;
 const csvFilePath = "./file.csv"; 
+// database connection
 const pool = new Pool({
   user: "postgres",
   host: "localhost",
