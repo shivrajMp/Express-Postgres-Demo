@@ -1,0 +1,4 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,gender
+Shiv,pattan,15,A-563 Rakshak Society,New Pune Road,Pune,Maharashtra,male
+Raj,Kumar,21,12443 Main Road,Sapta Road,Mumbai,Maharashtra,male
+Rajani,Pattan,55,144 Main Goa,Floor 3,Goa,Maharashtra,female
